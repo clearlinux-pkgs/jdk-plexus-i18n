@@ -4,7 +4,7 @@
 #
 Name     : jdk-plexus-i18n
 Version  : 1affc6a
-Release  : 1
+Release  : 2
 URL      : https://github.com/codehaus-plexus/plexus-i18n/archive/1affc6a.tar.gz
 Source0  : https://github.com/codehaus-plexus/plexus-i18n/archive/1affc6a.tar.gz
 Summary  : No detailed summary available
